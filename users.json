@@ -1,0 +1,50 @@
+{
+	"user1":{
+	"id":1,
+	"username":"Tabs",
+	"firstname":"Niel Fred",
+	"middlename":"Abuton",
+	"lastname":"Tabar",
+	"password":"Yametekudasai1*",
+	"email":"tabarnielfred0@gmail.com",
+	"gender":"Male",
+	"birthdate":"1999-09-17"
+	},
+
+	"user2":{
+	"id":2,
+	"username":"Abangan",
+	"firstname":"Rj",
+	"middlename":"Ligon",
+	"lastname":"Abangan",
+	"password":"person",
+	"email":"person@gmail.com",
+	"gender":"Male",
+	"birthdate":"1999-07-16"
+	},
+
+	"user3":{
+	"id":3,
+	"username":"Kalma",
+	"firstname":"Ako",
+	"middlename":"Lang",
+	"lastname":"To",
+	"password":"shadowfiend",
+	"email":"akolangto0@gmail.com",
+	"gender":"Male",
+	"birthdate":"1998-07-16"
+	},
+
+	"user4":{
+	"id":4,
+	"username":"Mavis",
+	"firstname":"Mavishub",
+	"middlename":"Axie",
+	"lastname":"Infinity",
+	"password":"Sureoi",
+	"email":"mavishub@gmail.com",
+	"gender":"Male",
+	"birthdate":"1998-04-23"
+	}
+
+}
